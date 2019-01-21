@@ -1,6 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
+    color: white;
+    background-color: black;
 }
 nav ul, footer ul {
     font-family: monospace;
@@ -21,25 +23,28 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2em;
+    font-size: 3em;
     font-family: monospace;
 }
 p {
-    font-size: 1.5em;
+    font-family: monospace;
+    font-size: 2em;
     line-height: 1.4em;
     color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
-
-ul.posts { 
-    margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
+ul.posts { 
+    margin: 20px auto 40px;
+    font-family: monospace; 
+    font-size: 2em;
+}
+
 ul.posts li {
+    font-family: monospace;
     list-style: none;
 }
 
