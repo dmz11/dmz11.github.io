@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Dana Zimmer"
+title: "Create a website hosted by Github for free"
 date: 2019-04-10
 ---
-
-# Create a website hosted by Github for free
 
 Hello world!
 
